@@ -1,2 +1,12 @@
-sourceCode
+# Web project
+node_modules
+.env
+package-lock.json
+yarn-lock.json
 
+# extra generated files
+*.class
+
+# Project specific files
+sourceCode
+installers
